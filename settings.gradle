@@ -1,0 +1,3 @@
+include ':coreTools'
+include ':app'
+rootProject.name = "ATools"
